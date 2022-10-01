@@ -1,0 +1,7 @@
+.top-part{
+    margin: 8px auto;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

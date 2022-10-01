@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+#inputTag{
+  width: 60%;
+  padding: 16px 0px 16px 0px;
+  margin: auto;
+}
+
+@media screen and (max-width: 480px) {
+
+}
