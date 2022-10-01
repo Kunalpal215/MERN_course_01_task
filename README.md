@@ -6,7 +6,6 @@ To see task's working in action run below 3 commands in root of project
 This will install all the related dependencies
 ### `npm install -g json-server`
 This will install json-server npm package on your machine
-This will install all the related dependencies
 ### `json-server --watch ./src/controllers/db.json`
 This will start API server at port 3000
 ### `npm start`
